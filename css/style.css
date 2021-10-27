@@ -1,0 +1,173 @@
+
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+body {
+  color: #666666;
+  font-size: 14px;
+  font-family: poppins;
+  line-height: 1.80857;
+  font-weight: normal;
+  overflow-x: hidden;
+}
+
+.bg {
+  background-color: #136af8;
+  height:650px;
+}
+.h {
+  width:40% !important;
+}
+.h:hover {
+  background:white;
+  color:black;
+}
+.our {
+  color:#136af8;
+}
+
+.clothes_main{
+  width: 100%; 
+  float: left;
+  background-color: #081b30;
+  height: auto;
+  padding: 60px 0px; 
+}
+.section {
+  float: left;
+  width: 100%;
+}
+
+
+.sport_product {
+  padding: 40px 20px;
+  background: #fff;
+  text-align: center;
+
+}
+.price_text {
+  font-size: 20px; 
+  color: #1369f5;
+}
+
+.sport_product figure {
+  margin:0;
+}
+.sport_product figure img {
+  height: 300px;
+}
+
+.sport_product .images-main {
+
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  padding: 40px 0px 20px 0px;
+  min-height: 450px;
+
+}  
+
+.sport_product h3 {
+   font-size: 29px;
+line-height: 25px;
+padding-top: 25px;
+}
+.sport_product h4 {
+   color: #000;
+   font-size: 24px;
+line-height: 24px;
+padding: 10px 0px 0px 0px;
+}
+.price_text{
+  
+ text-align: center;
+font-size: 29px;
+color: #136af8;
+padding-top: 25px;
+line-height: 25px;
+font-weight:normal;
+} 
+
+.sport_product {
+
+  margin-bottom: 20px;
+}
+
+.bg2 {
+  background-color: #136af8;
+  height:600px;
+}
+.bg3 {
+  background-color: #136af8;
+  height:580px;
+  width:930px;
+}
+.bg4 {
+  background:url(../images/contact-banner.png) 0px 0px;
+  background-size:cover ;
+}
+
+.con {
+  margin-top:100px;
+  margin-left: 25px;
+  width:450px;
+  height:468px;
+}
+.con2 {
+  padding-top: 100px;
+}
+  .soc_text{
+    width: 100%;
+    float: left;
+    background-color: #081b30;
+    height: auto;
+    padding-top: 71px;
+    padding-bottom: 72px;
+    text-align: center;
+    font-family: apple;
+    font-size: 180px;
+    color: #fff;
+}
+.email_btn {
+  width: 100%;
+  float: left;
+  padding-bottom: 55px;
+  background-image: url(../images/boll_bg.png);
+  height: auto;
+  padding: 41px;
+}
+
+.form-group {
+  margin-bottom: 2rem;
+}
+
+.submit_btn{
+   width: 100%;
+   margin:0 auto;
+   text-align: center;
+   margin-top: 60px;
+}
+.email_btn .form-control {
+  border: none;
+  border-bottom: #ddd solid 1px;
+  margin-bottom: 12px;
+  border-radius: inherit !important;
+  padding: 12px 0;
+  color: #c1bebe;
+  width: 95%;
+ margin: 0 auto;
+ border-left: 0px;
+ border-right: 0px;
+ border-top: 0px;
+ background: transparent;
+}
+.email_btn .form-control:focus {
+  box-shadow: none !important;
+  background: transparent !important;
+  border: none !important;
+  border-bottom: #ddd solid 1px !important;
+}
+.bg5 {
+  background-color: #136af8;
+  height:50px;
+}
